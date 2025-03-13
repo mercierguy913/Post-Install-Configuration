@@ -52,9 +52,10 @@ Configure the Departments (Ticket Visibility)
   Go to the admin panel, then agents -> Departments, and then click on create SysAdmin
 </p>
 <br />
+<img src="https://imgur.com/a/imEZb3q.png" height="80% width="80%"
 
 <p>
-<img src="https://imgur.com/a/imEZb3q.png" height="80% width="80%"
+
 </p>
 <p>
 Configure Teams
