@@ -29,7 +29,7 @@ This tutorial outlines the post-installation configuration of the open-source he
 <h2>Configuration Steps</h2>
 
 <p>
-![Screenshot 2025-03-12 222801](https://github.com/user-attachments/assets/5873c233-91cc-41a8-b1f2-2fe77e72e696)
+
 
 </p>
 <p>
@@ -37,6 +37,7 @@ Configure Roles (for grouping permissions)
 Let's start by finding the Admin Panel -> then Agents -> and under Roles
 You will need to create a role called Supreme Admin
 Go to Add New Role -> Name is Supreme Admin -> Permissions -> enable everything on all 3 tabs -> click Add Role 
+![image](https://github.com/user-attachments/assets/36549c7e-c071-4c7b-94d0-df885f0db942)
 
 </p>
 <br />
