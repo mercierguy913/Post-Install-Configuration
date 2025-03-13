@@ -29,7 +29,7 @@ This tutorial outlines the post-installation configuration of the open-source he
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://imgur.com/doiaJAE.png" height="80%" width="80%" 
+ 
 
 </p>
 <p>
@@ -41,7 +41,7 @@ Go to Add New Role -> Name is Supreme Admin -> Permissions -> enable everything 
 
 </p>
 <br />
-
+<img src="https://imgur.com/doiaJAE.png" height="80%" width="80%"
 
 
 <p>
