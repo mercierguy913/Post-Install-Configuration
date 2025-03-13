@@ -29,12 +29,14 @@ This tutorial outlines the post-installation configuration of the open-source he
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="![image](https://github.com/user-attachments/assets/c4ada419-a935-4b7c-8724-53b86b1e27a2)
+" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configure Roles (for grouping permissions) 
 Let's start by finding the Admin Panel -> then Agents -> and under Roles
-You will find Supreme Admin
+You will need to create a role called Supreme Admin
+Go to Add New Role -> Name is Supreme Admin -> Permissions -> enable everything on all 3 tabs -> click Add Role 
 
 </p>
 <br />
