@@ -29,10 +29,9 @@ This tutorial outlines the post-installation configuration of the open-source he
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="![image](https://github.com/user-attachments/assets/c4ada419-a935-4b7c-8724-53b86b1e27a2)
-" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  ![image](https://github.com/user-attachments/assets/eac79348-b910-4a85-8564-2d0a8502285c)
+<img src=![image](https://github.com/user-attachments/assets/33d0b74e-a100-4f6d-94b5-666eef9a69d2)
 
+" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configure Roles (for grouping permissions) 
