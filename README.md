@@ -29,7 +29,7 @@ This tutorial outlines the post-installation configuration of the open-source he
 <h2>Configuration Steps</h2>
 
 <p>
-
+<img src="https://imgur.com/a/wLDlztT" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 </p>
 <p>
@@ -40,7 +40,7 @@ Go to Add New Role -> Name is Supreme Admin -> Permissions -> enable everything 
 
 </p>
 <br />
-![image](https://github.com/user-attachments/assets/052ef5f3-0de8-411f-afd5-453198d9f462)
+
 
 
 <p>
