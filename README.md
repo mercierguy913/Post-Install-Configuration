@@ -29,7 +29,7 @@ This tutorial outlines the post-installation configuration of the open-source he
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://imgur.com/a/wLDlztT" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Screenshot 2025-03-12 222801](https://github.com/user-attachments/assets/5873c233-91cc-41a8-b1f2-2fe77e72e696)
 
 </p>
 <p>
