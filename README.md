@@ -52,7 +52,7 @@ Configure the Departments (Ticket Visibility)
   Go to the admin panel, then agents -> Departments, and then click on create SysAdmin
 </p>
 <br />
-![image alt] (https://github.com/mercierguy913/Post-Install-Configuration/blob/main/Screenshot%202025-03-12%20225624.png?raw=true)
+![image alt](https://github.com/mercierguy913/Post-Install-Configuration/blob/ea4a4f2c8d20937ed6cd7981ca9e15180194e63b/Screenshot%202025-03-12%20225624.png)
 
 
 </p>
