@@ -41,7 +41,9 @@ Go to Add New Role -> Name is Supreme Admin -> Permissions -> enable everything 
 
 </p>
 <br />
-<img src="https://imgur.com/doiaJAE.png" height="80%" width="80%"
+
+![Screenshot 2025-03-12 222801](https://github.com/user-attachments/assets/d4245c80-4921-42d6-b68b-810012e2fa80)
+
 
 
 <p>
