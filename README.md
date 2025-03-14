@@ -62,20 +62,27 @@ Configure the Departments (Ticket Visibility)
 <p>
 Configure Teams
   It's Admin Panel -> Then agents -> Teams
+ Now, add the team members you need on there by clicking on Add New Team
 </p>
 <br />
 
+![image](https://github.com/user-attachments/assets/b1e7f81a-74f2-486c-9223-72bfc8451208)
+
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
 Configure Agents (workers)
-  Find the Admin Panel -> Agents -> then add new. Now create the agents you need for your organization 
+  Find the Admin Panel -> Agents -> then Add New Agent. Now create the agents you need for your organization 
 </p>
 <br />
 
+![image](https://github.com/user-attachments/assets/8b26aeb6-5c72-48c4-81ce-fcd3eb5ce232)
+
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
 Configure Users
@@ -83,8 +90,11 @@ Configure Users
 </p>
 <br />
 
+![Screenshot 2025-03-13 214558](https://github.com/user-attachments/assets/8cd79705-4eef-4a86-aa72-a27c91f1abb7)
+
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
 Configure SLA
@@ -97,8 +107,11 @@ Configure SLA
 </p>
 <br />
 
+![image](https://github.com/user-attachments/assets/12807629-ab9e-493f-9a74-d007bbd6daf2)
+
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
 Configure Help Topics (when the user creates a ticket)
@@ -114,3 +127,6 @@ Configure Help Topics (when the user creates a ticket)
   This would be the last step for this tutorial. congrats!
 </p>
 <br />
+
+![image](https://github.com/user-attachments/assets/df471951-4dc1-4778-ba83-e74249956d04)
+
